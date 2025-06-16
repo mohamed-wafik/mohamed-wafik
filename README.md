@@ -12,7 +12,11 @@
   <a href="https://www.facebook.com/mohamed.wafek.506222" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" alt="Facebook" />
   </a>
+  <a href="mailto:wafikmohamed725@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-d44638?logo=gmail&style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
