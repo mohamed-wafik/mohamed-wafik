@@ -26,9 +26,61 @@
 
 ### 📂 Featured Projects
 
-- 🎨 [Portfolio Website](https://my-portfolio-mohamedwafik.netlify.app): Modern personal portfolio built with HTML, CSS, and JS.
-- 🧮 [C++ Data Structures](#): Educational projects in C++ covering arrays, stacks, queues, and more (soon to be uploaded).
-- 📝 [SASS Mini Projects](#): Stylish components built using SCSS and modular CSS architecture.
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Portfolio Website</h3>
+      <p>
+        A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
+      </p>
+      <p align="center">
+        <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
+          🔗 Live Demo
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 C++ Data Structures</h3>
+      <p>
+        Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.
+      </p>
+      <p align="center">
+        <a href="#" target="_blank">
+          📦 Coming Soon
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎯 SASS Mini Components</h3>
+      <p>
+        Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.
+      </p>
+      <p align="center">
+        <a href="#" target="_blank">
+          🎬 Preview Coming Soon
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📑 To-Do App</h3>
+      <p>
+        A simple and clean task management web app built using JavaScript and localStorage.
+      </p>
+      <p align="center">
+        <a href="#" target="_blank">
+          📱 Try it Soon
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
