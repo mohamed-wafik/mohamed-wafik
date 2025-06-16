@@ -29,21 +29,20 @@
 
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%" style="border-spacing: 16px;">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
       <h3 align="center">🎨 Portfolio Website</h3>
       <p>
         A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
       </p>
-       <p align="center">
+      <p align="center">
         <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
         </a>
       </p>
-      </p>
     </td>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
       <h3 align="center">🧮 C++ Data Structures</h3>
       <p>
         Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.
@@ -54,7 +53,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
       <h3 align="center">🎯 SASS Mini Components</h3>
       <p>
         Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.
@@ -63,7 +62,7 @@
         <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon">
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
       <h3 align="center">📑 To-Do App</h3>
       <p>
         A simple and clean task management web app built using JavaScript and localStorage.
@@ -74,6 +73,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
