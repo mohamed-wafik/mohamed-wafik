@@ -42,7 +42,7 @@
 ### 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/mohamed-wafik">
+  <a href="https://github.com/mohamed-wafik/profile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wafik&theme=radical&border=38bdf8&background=0D1117" alt="Wafik's GitHub streak"/>
   </a>
 </p>
