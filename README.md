@@ -29,43 +29,51 @@
 
 ### 🚀 Featured Projects
 
-  <div style="width: 1000px; overflow: auto;">
-    <!-- Card 1 -->
-    <div style="float: left; width: 45%; margin: 2.5%; border: 1px solid #444; border-radius: 12px; background: #111; padding: 16px;">
+<table>
+  <tr>
+    <td width="50%">
       <h3 align="center">🎨 Portfolio Website</h3>
-      <p align="center">A modern personal portfolio using HTML, CSS & JavaScript.</p>
-      <p align="center">
+      <p>
+        A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
+      </p>
+       <p align="center">
         <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
         </a>
       </p>
-    </div>
-    <!-- Card 2 -->
-    <div style="float: left; width: 45%; margin: 2.5%; border: 1px solid #444; border-radius: 12px; background: #111; padding: 16px;">
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🧮 C++ Data Structures</h3>
-      <p align="center">Mini-projects in C++ (stacks, queues, algorithms, etc).</p>
+      <p>
+        Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Coming Soon-d4d4d8?style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="Coming Soon">
       </p>
-    </div>
-    <!-- Card 3 -->
-    <div style="float: left; width: 45%; margin: 2.5%; border: 1px solid #444; border-radius: 12px; background: #111; padding: 16px;">
-      <h3 align="center">🎯 SASS Components</h3>
-      <p align="center">Reusable SCSS components for scalable and clean UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎯 SASS Mini Components</h3>
+      <p>
+        Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon">
       </p>
-    </div>
-    <!-- Card 4 -->
-    <div style="float: left; width: 45%; margin: 2.5%; border: 1px solid #444; border-radius: 12px; background: #111; padding: 16px;">
+    </td>
+    <td width="50%">
       <h3 align="center">📑 To-Do App</h3>
-      <p align="center">Simple task app using JavaScript and localStorage.</p>
+      <p>
+        A simple and clean task management web app built using JavaScript and localStorage.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Try it Soon-22c55e?style=for-the-badge&logo=javascript&logoColor=white" alt="Try it Soon">
       </p>
-    </div>
-  </div>
-
+    </td>
+  </tr>
+</table>
 
 ---
 
