@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hello, World!</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
   <body>
 <h1 align="center">👋 Hi, I'm <span style="color:#38bdf8">Mohamed Wafik</span></h1>
 
