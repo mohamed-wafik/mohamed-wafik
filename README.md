@@ -29,7 +29,6 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
   <div style="width: 1000px; overflow: auto;">
     <!-- Card 1 -->
     <div style="float: left; width: 45%; margin: 2.5%; border: 1px solid #444; border-radius: 12px; background: #111; padding: 16px;">
@@ -66,7 +65,6 @@
       </p>
     </div>
   </div>
-</div>
 
 
 ---
