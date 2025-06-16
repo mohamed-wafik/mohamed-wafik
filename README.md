@@ -24,25 +24,38 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 My Projects
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wafik&repo=my-portfolio&border_color=38bdf8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=38bdf8)](https://github.com/mohamed-wafik/my-portfolio)
-[![C++ Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wafik&repo=cpp-dsa&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mohamed-wafik/cpp-dsa)
-[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wafik&repo=todo-app&border_color=22c55e&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=22c55e)](https://github.com/mohamed-wafik/todo-app)
-[![SASS Components](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wafik&repo=sass-components&border_color=facc15&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=facc15)](https://github.com/mohamed-wafik/sass-components)
+Here are some of the projects I've worked on recently:
 
-<p align="left">
-  <a href="https://github.com/mohamed-wafik?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
+### 🎨 Portfolio Website  
+A modern and responsive personal portfolio built with HTML, CSS, and JavaScript.  
+[🔗 Live Demo](https://my-portfolio-mohamedwafik.netlify.app)
+
+---
+
+### 🧮 C++ Data Structures  
+Hands-on implementation of core data structures like stacks, queues, linked lists, and sorting algorithms in C++.  
+📦 Coming Soon
+
+---
+
+### 🎯 SASS UI Components  
+A small library of reusable UI components styled with SCSS, focusing on clean design and reusability.  
+⏳ Preview Coming Soon
+
+---
+
+### 📑 To-Do App  
+A minimalistic and fast to-do list web app using JavaScript and localStorage.  
+🧪 Try it Soon
 
 ---
 
 ### 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/mohamed-wafik/profile">
+  <a href="https://github.com/mohamed-wafik">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wafik&theme=radical&border=38bdf8&background=0D1117" alt="Wafik's GitHub streak"/>
   </a>
 </p>
