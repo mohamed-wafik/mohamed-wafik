@@ -22,64 +22,57 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,cpp,git" alt="Tech Stack" />
 </p>
 
----
-
-### 📂 Featured Projects
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎨 Portfolio Website</h3>
-      <p>
-        A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
-      </p>
-      <p align="center">
-        <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
-          🔗 Live Demo
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧮 C++ Data Structures</h3>
-      <p>
-        Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.
-      </p>
-      <p align="center">
-        <a href="#" target="_blank">
-          📦 Coming Soon
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 SASS Mini Components</h3>
-      <p>
-        Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.
-      </p>
-      <p align="center">
-        <a href="#" target="_blank">
-          🎬 Preview Coming Soon
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📑 To-Do App</h3>
-      <p>
-        A simple and clean task management web app built using JavaScript and localStorage.
-      </p>
-      <p align="center">
-        <a href="#" target="_blank">
-          📱 Try it Soon
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+    <h3 align="center">🎨 Portfolio Website</h3>
+    <p align="center">
+      A sleek and modern personal portfolio showcasing my skills using HTML, CSS & JavaScript.
+    </p>
+    <p align="center">
+      <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+      </a>
+    </p>
+  </div>
+
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+    <h3 align="center">🧮 C++ Data Structures</h3>
+    <p align="center">
+      Educational mini-projects using C++ to implement arrays, stacks, queues, and algorithms.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Coming Soon-d4d4d8?style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="Coming Soon">
+    </p>
+  </div>
+
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+    <h3 align="center">🎯 SASS Mini Components</h3>
+    <p align="center">
+      Reusable UI components built with SCSS for responsive, scalable design.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon">
+    </p>
+  </div>
+
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+    <h3 align="center">📑 To-Do App</h3>
+    <p align="center">
+      A simple task management app built with JavaScript & localStorage.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Try it Soon-22c55e?style=for-the-badge&logo=javascript&logoColor=white" alt="Try it Soon">
+    </p>
+  </div>
+
+</div>
+
 
 
 ---
