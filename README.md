@@ -29,7 +29,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
 
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:200px; background:#111;">
     <h3 align="center">🎨 Portfolio Website</h3>
     <p align="center">
       A sleek and modern personal portfolio showcasing my skills using HTML, CSS & JavaScript.
