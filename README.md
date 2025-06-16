@@ -21,7 +21,7 @@
 
 ### 🧰 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,github,git" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,cpp,git,github" alt="tech stack" />
 </p>
 
 ---
