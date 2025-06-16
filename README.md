@@ -26,57 +26,36 @@
 
 ### 🚀 Featured Projects
 
-<p float="left" align="center">
-  <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />&nbsp;
-  <img src="https://img.shields.io/badge/Coming Soon-d4d4d8?style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="Coming Soon" />&nbsp;
-  <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon" />&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Coming Soon-d4d4d8?style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="Coming Soon" />
+  <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon" />
   <img src="https://img.shields.io/badge/Try it Soon-22c55e?style=for-the-badge&logo=javascript&logoColor=white" alt="Try it Soon" />
 </p>
 
-<table width="100%" style="border-spacing: 16px;">
-  <tr>
-    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
-      <h3 align="center">🎨 Portfolio Website</h3>
-      <p>
-        A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
-      </p>
-      <p align="center">
-        <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-        </a>
-      </p>
-    </td>
-    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
-      <h3 align="center">🧮 C++ Data Structures</h3>
-      <p>
-        Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Coming Soon-d4d4d8?style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="Coming Soon">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
-      <h3 align="center">🎯 SASS Mini Components</h3>
-      <p>
-        Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Preview Coming Soon-facc15?style=for-the-badge&logo=sass&logoColor=black" alt="Preview Coming Soon">
-      </p>
-    </td>
-    <td width="50%" style="border: 1px solid #444; border-radius: 12px; padding: 16px; vertical-align: top; background-color: #111;">
-      <h3 align="center">📑 To-Do App</h3>
-      <p>
-        A simple and clean task management web app built using JavaScript and localStorage.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Try it Soon-22c55e?style=for-the-badge&logo=javascript&logoColor=white" alt="Try it Soon">
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+#### 🎨 Portfolio Website  
+A sleek and modern personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.  
+[🔗 Live Demo](https://my-portfolio-mohamedwafik.netlify.app)
+
+---
+
+#### 🧮 C++ Data Structures  
+Educational mini-projects using C++ to implement arrays, stacks, queues, linked lists, and algorithms.  
+🔒 Coming Soon
+
+---
+
+#### 🎯 SASS Mini Components  
+Reusable and modular UI components built with SCSS, ideal for responsive and scalable designs.  
+⏳ Preview Coming Soon
+
+---
+
+#### 📑 To-Do App  
+A simple and clean task management web app built using JavaScript and localStorage.  
+🧪 Try it Soon
 
 ---
 
