@@ -41,7 +41,7 @@
     </p>
   </div>
 
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:200px; background:#111;">
     <h3 align="center">🧮 C++ Data Structures</h3>
     <p align="center">
       Educational mini-projects using C++ to implement arrays, stacks, queues, and algorithms.
@@ -51,7 +51,7 @@
     </p>
   </div>
 
-  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:300px; background:#111;">
+  <div style="border:1px solid #444; border-radius:12px; padding:16px; width:200px; background:#111;">
     <h3 align="center">🎯 SASS Mini Components</h3>
     <p align="center">
       Reusable UI components built with SCSS for responsive, scalable design.
