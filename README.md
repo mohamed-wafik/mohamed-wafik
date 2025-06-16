@@ -22,9 +22,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,cpp,git" alt="Tech Stack" />
 </p>
 
-
----
-
 ---
 
 ### 🚀 Featured Projects
@@ -73,7 +70,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
