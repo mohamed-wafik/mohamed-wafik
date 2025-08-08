@@ -23,7 +23,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,cpp,git" alt="Tech Stack" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,cpp,git" alt="Tech Stack" />
 </p>
 
 ---
@@ -44,15 +44,9 @@ Hands-on implementation of core data structures like stacks, queues, linked list
 
 ---
 
-### 🎯 SASS UI Components  
-A small library of reusable UI components styled with SCSS, focusing on clean design and reusability.  
-⏳ Preview Coming Soon
-
----
-
-### 📑 To-Do App  
-A minimalistic and fast to-do list web app using JavaScript and localStorage.  
-🧪 Try it Soon
+### 🧠 Algorithm Implementations  
+A collection of algorithm examples in C++ & JavaScript, including searching, sorting, and pathfinding, with step-by-step explanations and complexity notes (time & space).  
+📘 Documentation in progress
 
 ---
 
