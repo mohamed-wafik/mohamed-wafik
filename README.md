@@ -23,7 +23,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,taidwind,react,nextjs,redux,cpp,git" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,cpp,git" alt="Tech Stack" />
 </p>
 
 ---
