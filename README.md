@@ -3,7 +3,7 @@
 <p align="center"><strong>Front-End Developer</strong></p>
 
 <p align="center">
-  <a href="https://my-portfolio-mohamedwafik.netlify.app" target="_blank">
+  <a href="https://mohamedwafik.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/mohamed-wafik" target="_blank">
