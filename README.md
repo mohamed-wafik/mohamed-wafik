@@ -73,6 +73,7 @@ Collection of algorithm examples in C++ & JavaScript, including searching, sorti
 </p>
 
 <p align="center">
-  🔗 [View Mohamed Wafik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wafik&custom_title=Mohamed%20Wafik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=38bdf8&area_color=38bdf8&title_color=ffffff&area=true)
+  🔗 <a href="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wafik&custom_title=Mohamed%20Wafik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=38bdf8&area_color=38bdf8&title_color=ffffff&area=true">View Mohamed Wafik's GitHub Activity Graph</a>
 </p>
+
 
