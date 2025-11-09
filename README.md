@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#38bdf8">Mohamed Wafik</span></h1>
 
-<p align="center"><strong>Front-End Developer</strong></p>
+<p align="center"><strong>Full-Stack Developer | Front-End & C++ Enthusiast | Open-Source Contributor</strong></p>
 
 <p align="center">
   <a href="https://mohamedwafik.netlify.app" target="_blank">
@@ -17,35 +17,34 @@
   </a>
 </p>
 
-
 ---
 
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,cpp,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,nodejs,express,mysql,postgres,mongodb,cpp,git,docker,linux,vscode" alt="Tech Stack" />
 </p>
+
+**Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, Sass, Tailwind CSS, React, Next.js, Node.js, Express.js, C++  
+
+**Databases:** MySQL, PostgreSQL, MongoDB  
+
+**Tools & Platforms:** Git, Docker, Linux, VS Code, Netlify, Vercel  
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of the projects I've worked on recently:
-
 ### 🎨 Portfolio Website  
 A modern and responsive personal portfolio built with HTML, CSS, and JavaScript.  
 [🔗 Live Demo](https://my-portfolio-mohamedwafik.netlify.app)
-
----
 
 ### 🧮 C++ Data Structures  
 Hands-on implementation of core data structures like stacks, queues, linked lists, and sorting algorithms in C++.  
 📦 Coming Soon
 
----
-
 ### 🧠 Algorithm Implementations  
-A collection of algorithm examples in C++ & JavaScript, including searching, sorting, and pathfinding, with step-by-step explanations and complexity notes (time & space).  
+Collection of algorithm examples in C++ & JavaScript, including searching, sorting, and pathfinding, with step-by-step explanations and complexity notes.  
 📘 Documentation in progress
 
 ---
@@ -54,24 +53,25 @@ A collection of algorithm examples in C++ & JavaScript, including searching, sor
 
 <p align="center">
   <a href="https://github.com/mohamed-wafik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wafik&theme=radical&border=38bdf8&background=0D1117" alt="Wafik's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wafik&theme=radical&border=38bdf8&background=0D1117" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mohamed-wafik">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-wafik&theme=radical" alt="Mohamed Wafik GitHub Summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-wafik&theme=radical" alt="GitHub Summary"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mohamed-wafik">
-    <img alt="Wafik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamed-wafik&show_icons=true&count_private=true&theme=react&border_color=38bdf8&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" height="192px" width="49.5%"/>
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamed-wafik&show_icons=true&count_private=true&theme=react&border_color=38bdf8&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/mohamed-wafik">
     <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wafik&langs_count=8&layout=compact&theme=react&border_color=38bdf8&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" height="192px" width="49.5%"/>
   </a>
 </p>
 
-![Wafik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wafik&custom_title=Mohamed%20Wafik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=38bdf8&area_color=38bdf8&title_color=ffffff&area=true)
-
+<p align="center">
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wafik&custom_title=Mohamed%20Wafik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38bdf8&line=38bdf8&point=38bdf8&area_color=38bdf8&title_color=ffffff&area=true)
+</p>
