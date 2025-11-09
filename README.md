@@ -22,14 +22,14 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,nodejs,express,mysql,postgres,mongodb,cpp,git,docker,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,nodejs,express,laravel,mysql,postgres,mongodb,cpp,git,vscode" alt="Tech Stack" />
 </p>
 
-**Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, Sass, Tailwind CSS, React, Next.js, Node.js, Express.js, C++  
+**Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, Sass, Tailwind CSS, React, Next.js, Redux, Node.js, Express.js, Laravel, C++  
 
 **Databases:** MySQL, PostgreSQL, MongoDB  
 
-**Tools & Platforms:** Git, Docker, Linux, VS Code, Netlify, Vercel  
+**Tools & Platforms:** Git, VS Code, Netlify, Vercel  
 
 ---
 
